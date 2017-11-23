@@ -2,15 +2,16 @@
 <metadata>
   <groupId>loment</groupId>
   <artifactId>cashew-android-sdk</artifactId>
-  <version>2.1.0</version>
+  <version>2.2.0</version>
   <versioning>
-    <latest>2.1.0</latest>
-    <release>2.1.0</release>
+    <latest>2.2.0</latest>
+    <release>2.2.0</release>
     <versions>
+	<version>2.2.0</version>
       <version>2.1.0</version>
-		  <version>2.0.1</version>
+	<version>2.0.1</version>
 	    <version>2.0</version>
     </versions>
-    <lastUpdated>20170628120000</lastUpdated>
+    <lastUpdated>1511458020</lastUpdated>
   </versioning>
 </metadata>
